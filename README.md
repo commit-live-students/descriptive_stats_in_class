@@ -1,18 +1,18 @@
 # Descriptive Statistics
 ![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/GreyAtom-logo.png)
 
-You will start building the foundation you need to think statistically, to speak the language of your data, to understand what they are telling you. 
+You will start building the foundation you need to think statistically, to speak the language of your data, to understand what they are telling you.
 
 ## At a glance
 * In Class Instruction: 2 Hours
-  * In Class code along Dataset: Iowa Housing Prices
-  
+  * In Class code along Dataset: Housing Prices Dataset
+
 * Project Dataset:Iowa Housing Prices
   * Estimated Time to complete Project Tasks: 1 Hour
   * Total sub tasks within the Project: 6
   * Complexity of sub tasks : Mid to High
   * Points to be scored : 700
-  
+
 
 * Skills Rehearsed
   * Statistics for Data Science
@@ -45,8 +45,7 @@ Check the Jupyter Notebook in the top right of the screen
 ## Post Reads
 * [Now that you have revised the basic statistics use this playground to be more creative with statistics](https://students.brown.edu/seeing-theory/)
 
-## Project 
+## Project
 Iowa Dataset
 
-Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this dataset will help you determine aspects which influence price of a property other than sq.ft. area and locality. 
-
+Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this dataset will help you determine aspects which influence price of a property other than sq.ft. area and locality.
