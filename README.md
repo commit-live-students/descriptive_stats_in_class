@@ -9,9 +9,9 @@ You will start building the foundation you need to think statistically, to speak
 
 * Project Dataset:Iowa Housing Prices
   * Estimated Time to complete Project Tasks: 1 Hour
-  * Total sub tasks within the Project: 6
+  * Total sub tasks within the Project: 4
   * Complexity of sub tasks : Mid to High
-  * Points to be scored : 700
+  * Points to be scored : 250
 
 
 * Skills Rehearsed
